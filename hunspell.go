@@ -8,7 +8,7 @@ package hunspell
 //
 // #include <stdlib.h>
 // #include <stdio.h>
-// #include <hunspell.hxx>
+// #include <hunspell/hunspell.h>
 import "C"
 
 import (
